@@ -1,0 +1,7 @@
+C:\Users\fomen\RiderProjects\pupa\pupa\bin\Debug\pupa.exe
+C:\Users\fomen\RiderProjects\pupa\pupa\bin\Debug\pupa.pdb
+C:\Users\fomen\RiderProjects\pupa\pupa\obj\Debug\pupa.csproj.AssemblyReference.cache
+C:\Users\fomen\RiderProjects\pupa\pupa\obj\Debug\pupa.csproj.SuggestedBindingRedirects.cache
+C:\Users\fomen\RiderProjects\pupa\pupa\obj\Debug\pupa.csproj.CoreCompileInputs.cache
+C:\Users\fomen\RiderProjects\pupa\pupa\obj\Debug\pupa.exe
+C:\Users\fomen\RiderProjects\pupa\pupa\obj\Debug\pupa.pdb
